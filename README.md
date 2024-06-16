@@ -1,6 +1,6 @@
 # Blockchain written in Go
 
-![Example Image](assets/img1.png)
+![Example Image](assets/img.png)
 
 ## Installation
 ### Prerequisites
